@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kalpesh-18
 - 👀 I’m interested in Coding my ideas
-- 🌱 I’m currently learning about Web-Devlopement and C/C++-Programming
+- 💻 C, C++, Java, Python and much more will be added to this list.
+- 🌱 I’m currently learning about Web-Devlopement and APIs
 - 📫 You can reach me through Twitter or Email - ahirekn19.comp@coep.ac.in
 
 <!---
