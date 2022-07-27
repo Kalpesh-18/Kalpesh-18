@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding my ideas
 - 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
 - 🌱 I’m currently learning about Web-Developement and APIs
-- 📫 You can reach me through Twitter or Email - ahirekn19.comp@coep.ac.in
-- 🪙 LeetCode Profile Link - https://leetcode.com/kalpesh-ahire18/
+- 📫 You can reach me through Twitter or Email -                                                   ahirekn19.comp@coep.ac.in
+- 🪙 LeetCode Profile Link -                                                                       https://leetcode.com/kalpesh-ahire18/
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)
