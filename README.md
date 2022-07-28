@@ -3,6 +3,7 @@
 - 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
 - 🌱 I’m currently learning about Web-Developement and API
 
+# LeetCode Stats
 <div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)
@@ -10,16 +11,17 @@
 </div>
 
 
-# Me on GitHub 
+# Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Kalpesh-18&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
+<!--
 # I can speak and talk fluently in
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-18&theme=midnight-purple" style="width:400px">
 </p>
-
+-->
 
 # Connect with me
 <a href="https://github.com/Kalpesh-18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
