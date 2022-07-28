@@ -6,9 +6,9 @@
 # LeetCode Stats
 <div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)
-
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)-->
 [![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalpesh-ahire18&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+  
 </div>
 
 
