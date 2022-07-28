@@ -9,6 +9,13 @@
 
 </div>
 
+
+# Me on GitHub 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Kalpesh-18&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+</p>
+
+
 # Connect with me
 <a href="https://github.com/Kalpesh-18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kalpesh-ahire-430a42192/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
