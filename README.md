@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning about Web-Developement and API
 
 <div align="center">
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)
+
 </div>
 
 # Connect with me
