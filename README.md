@@ -15,6 +15,11 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Kalpesh-18&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 
+# I can speak and talk fluently in
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RRkundkar777&theme=midnight-purple" style="width:400px">
+</p>
+
 
 # Connect with me
 <a href="https://github.com/Kalpesh-18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
