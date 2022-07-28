@@ -3,9 +3,9 @@
 - 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
 - 🌱 I’m currently learning about Web-Developement and API
 
-
+<p align = "center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)
-
+</p>
 
 # Connect with me
 <a href="https://github.com/Kalpesh-18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
