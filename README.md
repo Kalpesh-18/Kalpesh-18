@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalpesh-18
 - 👀 I’m interested in Coding my ideas
 - 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
-- 🌱 I’m currently learning about Web-Developement and API
+- 🌱 I’m currently learning about BlockChain, Web-Developement and APIs
 
 # LeetCode Stats
 <div align="center">
