@@ -16,8 +16,8 @@
 # Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Kalpesh-18&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
-  
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kalpesh-18/langs)](https://githubtrends.io)
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kalpesh-18/repos)](https://githubtrends.io)
 </p>
 
 <!--
