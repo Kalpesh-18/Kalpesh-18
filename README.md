@@ -27,10 +27,10 @@
 <p align = "center">
 
   <a href="https://githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/Kalpesh-18/langs?time_range=one_year&include_private=True&loc_metric=changed" />
+    <img align="center" src="https://api.githubtrends.io/user/svg/Kalpesh-18/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
   </a>
   <a href="https://githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/Kalpesh-18/repos?time_range=one_year&include_private=True&loc_metric=changed" />
+    <img align="center" src="https://api.githubtrends.io/user/svg/Kalpesh-18/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
   </a>
 
 </p>
