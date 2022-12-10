@@ -3,13 +3,19 @@
 - 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
 - 🌱 I’m currently learning about BlockChain, Web-Developement and APIs
 
+# Skills
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,py,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,spring,maven)](https://skillicons.dev)
+
 # LeetCode Stats
+
 <div align="center">
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/kalpesh-ahire18?font=Segoe_UI&ext=activity)-->
 <!--[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalpesh-ahire18&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)-->
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalpesh-ahire18&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalpesh-ahire18&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </div>
 
 
