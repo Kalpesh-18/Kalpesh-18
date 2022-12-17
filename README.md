@@ -37,7 +37,7 @@
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-18&" alt="Kalpesh-18" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-18" alt="Kalpesh-18" /></p>
 </details>
 
 <details>
