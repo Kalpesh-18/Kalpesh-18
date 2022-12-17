@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalpesh-18.
 - 👀 I’m interested in Coding my ideas.
-- 💻 I write blogs on ![Hashnode](https://supernova.hashnode.dev/).
+- 💻 I write blogs on [Hashnode](https://supernova.hashnode.dev).
 - 🌱 I’m currently learning about BlockChain, Web-Developement and APIs.
 
 # Skills
