@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kalpesh-18
-- 👀 I’m interested in Coding my ideas
-- 💻 Can code efficiently in C, C++, Java, Python and much more will be added to this list.
-- 🌱 I’m currently learning about BlockChain, Web-Developement and APIs
+- 👋 Hi, I’m @Kalpesh-18.
+- 👀 I’m interested in Coding my ideas.
+- 💻 I write blogs on ![Hashnode]("https://supernova.hashnode.dev/").
+- 🌱 I’m currently learning about BlockChain, Web-Developement and APIs.
 
 # Skills
 
@@ -35,12 +35,15 @@
 
 </p>
 
-<!--
-# I can speak and talk fluently in
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpesh-18&theme=midnight-purple" style="width:400px">
-</p>
--->
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpesh-18&" alt="Kalpesh-18" /></p>
+</details>
+
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kalpesh-18&margin-w=5" alt="Kalpesh-18" /></a> </p>
+</details>
 
 # Connect with me
 <a href="https://github.com/Kalpesh-18"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -51,6 +54,12 @@
 <a href="https://twitter.com/Kalpesh_Ahire18"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://supernova.hashnode.dev/"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <br><br>
+
+ <hr>
+<p align="center">
+    <i>Keep Learning🌱</i><br><br>
+   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
 
 <!---
 Kalpesh-18/Kalpesh-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
